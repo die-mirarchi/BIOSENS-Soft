@@ -1,0 +1,33 @@
+#######################################
+# Syntax Coloring Map For Test
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+SMSend	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+sendSMS	KEYWORD2
+receiveSMS	KEYWORD2
+isSMS	KEYWORD2
+getMessageSMS	KEYWORD2
+getMessagePhone	KEYWORD2
+getMessageDate	KEYWORD2
+getMessageInfo	KEYWORD2
+
+#######################################
+# Instances (KEYWORD2)
+#######################################
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+MESSAGE	LITERAL1
+PHONE_NUMBER	LITERAL1
+SENT_DATE	LITERAL1

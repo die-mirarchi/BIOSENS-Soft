@@ -1,0 +1,38 @@
+#######################################
+# Syntax Coloring Map For Test
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+Environment	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+getOptionID	KEYWORD2
+getOptionByID	KEYWORD2
+keywordToOption	KEYWORD2
+isAPhoneNumber	KEYWORD2
+getGeneralPin	KEYWORD2
+getTermicaPin	KEYWORD2
+getGruposPin	KEYWORD2
+getPhone	KEYWORD2
+getPhoneString	KEYWORD2
+getAlertTime	KEYWORD2
+getAlertTimeInt	KEYWORD2
+setGeneralPin	KEYWORD2
+setTermicaPin	KEYWORD2
+setGruposPin	KEYWORD2
+runMenuOption	KEYWORD2
+
+#######################################
+# Instances (KEYWORD2)
+#######################################
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+

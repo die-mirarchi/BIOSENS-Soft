@@ -1,0 +1,3 @@
+1. Copiar y pegar el contenido de la carpeta "LIBRERIA" en el directorio en donde se encuentra el IDE de ARDUINO.
+2. Cargar el programa "PRIMERA_CARGA", modificando lo necesario en el código de carga.
+3. Cargar el programa "USO_DEL_DISPOSITIVO", modificando la estructura de datos para leer correctamente la cargada anteriormente.
